@@ -15,7 +15,7 @@ The programs are written to support skill development and logical thinking.
    python --version
 
 
-## ▶️ How to Run
+## How to Run
 
 1. Open a terminal or command prompt.
 2. Navigate to the project folder.
@@ -26,7 +26,6 @@ The programs are written to support skill development and logical thinking.
 ## Requirements
 - Python 3.x
 - Any code editor (VS Code, PyCharm, etc.)
-
 
 ---
 
