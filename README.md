@@ -14,7 +14,6 @@ The programs are written to support skill development and logical thinking.
    ```sh
    python --version
 
-
 ## How to Run
 
 1. Open a terminal or command prompt.
